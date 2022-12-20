@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="recursos.qrc">
-    <normaloff>:/recursos/img/icono.png</normaloff>:/recursos/img/icono.png</iconset>
+    <normaloff>:/recursos/baja-temperatura.png</normaloff>:/recursos/baja-temperatura.png</iconset>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_3">
    <item>
@@ -60,6 +60,9 @@
        <widget class="QGroupBox" name="groupBox_2">
         <property name="title">
          <string>Fahrenheit</string>
+        </property>
+        <property name="checkable">
+         <bool>false</bool>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_2">
          <item>
