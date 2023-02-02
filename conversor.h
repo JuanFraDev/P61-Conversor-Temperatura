@@ -2,6 +2,8 @@
 #define CONVERSOR_H
 
 #include <QDialog>
+#include <QTranslator>
+#include <QInputDialog>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Conversor; }

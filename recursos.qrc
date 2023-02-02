@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>recursos/baja-temperatura.png</file>
+        <file>Conversor-Temperatura_ch.qm</file>
+        <file>Conversor-Temperatura_en.qm</file>
     </qresource>
 </RCC>
